@@ -1,0 +1,1 @@
+worker: python3 notices3.py
